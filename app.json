@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "DoseOnTime",
+    "slug": "DoseOnTime",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
